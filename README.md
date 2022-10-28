@@ -1,4 +1,4 @@
-![Header](https://giphy.com/gifs/art-loop-trippy-26DoiqmYcxgFICb3G)
+![Header](https://giphy.com/gifs/wolfram-research-data-visualization-3o6Ygfw40tlnPhX87m)
 <h1 align="center">Greetings ☺️, I'm Kartikeya Jain</h1>
 <h3 align="center">I am passionate about anything related to DATA</h3>
 
