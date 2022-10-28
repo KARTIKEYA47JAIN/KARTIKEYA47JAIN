@@ -1,4 +1,4 @@
-![Header](https://media.giphy.com/media/xT9IgusfDcqpPFzjdS/giphy.gif)
+![Header](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Greetings ☺️, I'm Kartikeya Jain</h1>
 <h3 align="center">I am passionate about anything related to DATA</h3>
 
