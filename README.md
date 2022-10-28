@@ -1,4 +1,4 @@
-![Header](https://giphy.com/gifs/loop-endless-trippy-xT9IgusfDcqpPFzjdS.gif)
+![Header](https://media.giphy.com/media/xT9IgusfDcqpPFzjdS/giphy.gif)
 <h1 align="center">Greetings ☺️, I'm Kartikeya Jain</h1>
 <h3 align="center">I am passionate about anything related to DATA</h3>
 
