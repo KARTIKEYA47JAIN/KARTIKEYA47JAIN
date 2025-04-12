@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World%2C+I'm+Kartikeya+😊;Mathematics+Enthusiast;Data+Infrastructure+Engineer;Cloud+%26+DevOps+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World%2C+I'm+Kartikeya+Jain+😊;Mathematics+Enthusiast;Data+Infrastructure+Engineer;Cloud+%26+DevOps+Specialist" alt="Typing SVG" />
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=kartikeya47jain&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
@@ -14,17 +14,22 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=24&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=600&height=80&lines=Coding+is+not+always+about+What+you+write%2C;it+is+about+WHY%3F+you+write+it" alt="My Coding Quote" />
-  <p align="center">— Kartikeya Jain</p>
+  <br>
+  <table>
+    <tr>
+      <td>
+        <blockquote>
+          <h3>"Coding is not always about What you write, it is about WHY? you write it"</h3>
+          <p align="right">— Kartikeya Jain</p>
+        </blockquote>
+      </td>
+    </tr>
+  </table>
 </div>
-
----
 
 ## 🌟 About Me
 
-> For me, information is a way of life. I'm passionate about finding compelling stories in datasets and building the infrastructure to make data work efficiently.
-
-I'm a mathematics fanatic with a relentless drive to learn. Data is my playground - analyzing it, building systems for it, and extracting meaningful insights from it is what I do best.
+I'm a mathematics fanatic with a relentless drive to learn. For me, information is a way of life, and teamwork not only teaches me but helps me grow. Data is my playground - analyzing it, building systems for it, and extracting meaningful insights from it is what I do best.
 
 - 🔭 Currently architecting **Cloud Infrastructure for Data Platforms**
 - 🌱 Continuously expanding my technical toolkit
@@ -32,57 +37,81 @@ I'm a mathematics fanatic with a relentless drive to learn. Data is my playgroun
 - 🤝 Growing through collaboration and knowledge sharing
 - 📝 Sharing insights via [Medium](https://medium.com/@kartikeya47jain)
 
----
-
 ## 🛠️ Technical Arsenal
 
-<div align="center">
-  
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### 📊 Data Tools
-
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🌐 Web Development
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-
----
+<table align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <h3 align="center">💻 Languages</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">☁️ Cloud & DevOps</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">📊 Data Tools</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align="center">🌐 Web Development</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 🏗️ Core Engineering Competencies
 
-<details>
-<summary>Click to expand</summary>
-
-1. **Infrastructure as Code** - Designing and deploying infrastructure for Databricks using Terraform, integrating AWS services through IaC
-
-2. **CI/CD Pipelines** - Developing and automating CI/CD pipelines in GitLab to streamline deployment processes
-
-3. **Cloud Networking** - Configuring Site-to-Site VPN, Azure Firewall, and monitoring solutions like Log Analytics Workspace
-
-4. **Data Platform Implementation** - Deploying end-to-end data platforms with services like Azure Key Vault, Storage Account, AKS, AWS S3, Secrets Manager, EC2, IAM
-
-5. **Infrastructure Automation** - Automating provisioning and management with Terraform, Bicep, and PowerShell for scalability and security
-</details>
-
----
+<div align="center">
+  <details>
+    <summary><b>Click to expand</b></summary>
+    <br>
+    <table>
+      <tr>
+        <td align="center"><b>⚙️ Infrastructure as Code</b></td>
+        <td>Designing and deploying infrastructure for Databricks using Terraform, integrating AWS services through IaC</td>
+      </tr>
+      <tr>
+        <td align="center"><b>🔄 CI/CD Pipelines</b></td>
+        <td>Developing and automating CI/CD pipelines in GitLab to streamline deployment processes</td>
+      </tr>
+      <tr>
+        <td align="center"><b>🌐 Cloud Networking</b></td>
+        <td>Configuring Site-to-Site VPN, Azure Firewall, and monitoring solutions like Log Analytics Workspace</td>
+      </tr>
+      <tr>
+        <td align="center"><b>📊 Data Platform Implementation</b></td>
+        <td>Deploying end-to-end data platforms with services like Azure Key Vault, Storage Account, AKS, AWS S3, Secrets Manager, EC2, IAM</td>
+      </tr>
+      <tr>
+        <td align="center"><b>🤖 Infrastructure Automation</b></td>
+        <td>Automating provisioning and management with Terraform, Bicep, and PowerShell for scalability and security</td>
+      </tr>
+    </table>
+  </details>
+</div>
 
 ## 🔗 Connect With Me
 
@@ -93,4 +122,9 @@ I'm a mathematics fanatic with a relentless drive to learn. Data is my playgroun
   <a href="https://kaggle.com/kartikeya_47_jain"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://instagram.com/kartikeya47jain"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.codechef.com/users/kartikeya47j"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
