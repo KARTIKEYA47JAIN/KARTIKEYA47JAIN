@@ -120,8 +120,6 @@ I'm a mathematics fanatic with a relentless drive to learn. For me, information 
   <a href="https://twitter.com/kartikeya47jain"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://medium.com/@kartikeya47jain"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://kaggle.com/kartikeya_47_jain"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="https://instagram.com/kartikeya47jain"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.codechef.com/users/kartikeya47j"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
 </div>
 
 <div align="center">
