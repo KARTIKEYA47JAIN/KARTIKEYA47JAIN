@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World%2C+I'm+Kartikeya+Jain+😊;Mathematics+Enthusiast;Data+Infrastructure+Engineer;Cloud+%26+DevOps+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World%2C+I'm+Kartikeya+Jain😊;Mathematics+Enthusiast;Data+Infrastructure+Engineer;Cloud+%26+DevOps+Specialist" alt="Typing SVG" />
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=kartikeya47jain&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
