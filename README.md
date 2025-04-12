@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World%2C+I'm+Kartikeya+Jain😊;Mathematics+Enthusiast;Data+Infrastructure+Engineer;Cloud+%26+DevOps+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World%2C+I'm+Kartikeya+😊;Mathematics+Enthusiast;Data+Infrastructure+Engineer;Cloud+%26+DevOps+Specialist" alt="Typing SVG" />
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=kartikeya47jain&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
@@ -11,6 +11,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kartikeya47jain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Kartikeya's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeya47jain&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=24&pause=1000&color=6495ED&center=true&vCenter=true&random=false&width=600&height=80&lines=Coding+is+not+always+about+What+you+write%2C;it+is+about+WHY%3F+you+write+it" alt="My Coding Quote" />
+  <p align="center">— Kartikeya Jain</p>
 </div>
 
 ---
@@ -39,7 +44,6 @@ I'm a mathematics fanatic with a relentless drive to learn. Data is my playgroun
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
@@ -47,19 +51,15 @@ I'm a mathematics fanatic with a relentless drive to learn. Data is my playgroun
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### 📊 Data Tools
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
@@ -93,8 +93,4 @@ I'm a mathematics fanatic with a relentless drive to learn. Data is my playgroun
   <a href="https://kaggle.com/kartikeya_47_jain"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://instagram.com/kartikeya47jain"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.codechef.com/users/kartikeya47j"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
