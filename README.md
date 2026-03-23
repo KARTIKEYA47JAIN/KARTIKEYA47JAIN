@@ -10,7 +10,7 @@
 
 **Kartikeya Jain** &nbsp;·&nbsp; Cloud & DevOps Engineer &nbsp;·&nbsp; Jaipur, India *(from Dehradun)*
 
-AWS + Azure Certified &nbsp;·&nbsp; Dean's List × 5 &nbsp;·&nbsp; 9.45 CGPA
+AWS + Azure Certified &nbsp;·&nbsp; Dean's List × 5
 
 *I build infrastructure that doesn't break — and show up for people the same way.*
 
