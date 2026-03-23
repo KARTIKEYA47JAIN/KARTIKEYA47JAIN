@@ -1,128 +1,106 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World%2C+I'm+Kartikeya+Jain+😊;Mathematics+Enthusiast;Data+Infrastructure+Engineer;Cloud+%26+DevOps+Specialist" alt="Typing SVG" />
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=kartikeya47jain&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-    <a href="https://medium.com/@kartikeya47jain"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-    <a href="mailto:kartikeya007jain@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&random=false&width=650&height=60&lines=Cloud+%26+DevOps+Engineer;Infrastructure+that+doesn't+break;Building+systems+where+failure+has+consequences" alt="Typing SVG" />
+
 </div>
 
+---
+
+```
+$ whoami
+→ Kartikeya Jain — Cloud & DevOps Engineer
+→ Jaipur, India  (from Dehradun)
+→ AWS + Azure Certified · Dean's List × 5 · 9.45 CGPA
+→ I build infrastructure that doesn't break —
+  and show up for people the same way.
+```
+
+---
+
+## What I Do
+
+At **Celebal Technologies** I architect cloud infrastructure for data platforms — provisioning, automating, and making sure nothing falls over at 2 AM.
+
+- **Infrastructure as Code** — Terraform on AWS & Azure, reusable module registries in GitLab
+- **CI/CD** — GitLab pipelines that deploy without drama
+- **Observability** — Datadog APM, RUM, Synthetic monitoring, Log Analytics Workspace
+- **Data Platforms** — Databricks, Azure Key Vault, AKS, AWS S3, EC2, IAM end-to-end
+- **Cloud Networking** — Site-to-Site VPN, Azure Firewall, network segmentation
+
+---
+
+## Tech Stack
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Web**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## Selected Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Terraform Infra Automation**](https://kartikeyajain.com/work/terraform-infra-automation) | IaC for Databricks on AWS — VPCs, IAM, S3, secrets, end-to-end | Terraform · AWS · GitLab CI |
+| [**Datadog Observability**](https://kartikeyajain.com/work/datadog-observability) | Full APM, RUM, Synthetic monitoring setup for production | Datadog · AWS |
+| [**GitLab Terraform Registry**](https://kartikeyajain.com/work/gitlab-terraform-registry) | Versioned reusable module registry across environments | Terraform · GitLab |
+| [**Women's Safety Analysis**](https://kartikeyajain.com/work/women-safety-india) | Data analysis across Indian states 2001–2014 | Python · Pandas · Tableau |
+| [**Terrorism Pattern Analysis**](https://kartikeyajain.com/work/terrorism-analysis) | Global terrorism dataset — patterns, hotspots, trends | Python · Pandas · Tableau |
+| [**Titanic Survival Analysis**](https://kartikeyajain.com/work/titanic-analysis) | Survival factor breakdown across passenger classes | Python · Pandas |
+| [**Cancer Detection KNN**](https://kartikeyajain.com/work/cancer-knn) | KNN classifier — 91.93% accuracy, 95.49% F-Score | Python · scikit-learn |
+| [**CrickView**](https://kartikeyajain.com/work/crickview) | Live cricket scores scraper and display | Python · BeautifulSoup |
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikeya47jain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Kartikeya's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeya47jain&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikeya47jain&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=f59e0b&icon_color=f59e0b&text_color=94a3b8&bg_color=0a0f1e" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeya47jain&theme=dark&hide_border=true&background=0a0f1e&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=94a3b8&dates=94a3b8" width="48%" />
 </div>
 
-<div align="center">
-  <br>
-  <table>
-    <tr>
-      <td>
-        <blockquote>
-          <h3>"Coding is not always about What you write, it is about WHY? you write it"</h3>
-          <p align="right">— Kartikeya Jain</p>
-        </blockquote>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-## 🌟 About Me
+## Writing
 
-I'm a mathematics fanatic with a relentless drive to learn. For me, information is a way of life, and teamwork not only teaches me but helps me grow. Data is my playground - analyzing it, building systems for it, and extracting meaningful insights from it is what I do best.
+I write about infrastructure, data, and occasionally — life.
 
-- 🔭 Currently architecting **Cloud Infrastructure for Data Platforms**
-- 🌱 Continuously expanding my technical toolkit
-- 📊 Finding fascinating stories within complex datasets
-- 🤝 Growing through collaboration and knowledge sharing
-- 📝 Sharing insights via [Medium](https://medium.com/@kartikeya47jain)
+- **[Mastering Terraform on Azure](https://medium.com/@kartikeya47jain/mastering-terraform-on-azure)** — Terraform patterns that actually work in production
+- **[A Journey from Click to Code](https://medium.com/@kartikeya47jain/a-journey-from-click-to-code-4a96c8a8309b)** — Why I moved from ClickOps to IaC and never looked back
+- More at [kartikeyajain.com/blog](https://kartikeyajain.com/blog)
 
-## 🛠️ Technical Arsenal
+---
 
-<table align="center" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <h3 align="center">💻 Languages</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">☁️ Cloud & DevOps</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">📊 Data Tools</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">🌐 Web Development</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-      </div>
-    </td>
-  </tr>
-</table>
+## Connect
 
-## 🏗️ Core Engineering Competencies
+<a href="https://kartikeyajain.com"><img src="https://img.shields.io/badge/Portfolio-0a0f1e?style=flat-square&logo=vercel&logoColor=f59e0b" /></a>
+<a href="https://linkedin.com/in/kartikeya-jain-267628220"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/KARTIKEYA47JAIN"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://medium.com/@kartikeya47jain"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
+<a href="https://kaggle.com/kartikeya_47_jain"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+<a href="mailto:kartikeya007jain@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+---
 
 <div align="center">
-  <details>
-    <summary><b>Click to expand</b></summary>
-    <br>
-    <table>
-      <tr>
-        <td align="center"><b>⚙️ Infrastructure as Code</b></td>
-        <td>Designing and deploying infrastructure for Databricks using Terraform, integrating AWS services through IaC</td>
-      </tr>
-      <tr>
-        <td align="center"><b>🔄 CI/CD Pipelines</b></td>
-        <td>Developing and automating CI/CD pipelines in GitLab to streamline deployment processes</td>
-      </tr>
-      <tr>
-        <td align="center"><b>🌐 Cloud Networking</b></td>
-        <td>Configuring Site-to-Site VPN, Azure Firewall, and monitoring solutions like Log Analytics Workspace</td>
-      </tr>
-      <tr>
-        <td align="center"><b>📊 Data Platform Implementation</b></td>
-        <td>Deploying end-to-end data platforms with services like Azure Key Vault, Storage Account, AKS, AWS S3, Secrets Manager, EC2, IAM</td>
-      </tr>
-      <tr>
-        <td align="center"><b>🤖 Infrastructure Automation</b></td>
-        <td>Automating provisioning and management with Terraform, Bicep, and PowerShell for scalability and security</td>
-      </tr>
-    </table>
-  </details>
-</div>
-
-## 🔗 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/kartikeya-jain"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/kartikeya47jain"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://medium.com/@kartikeya47jain"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://kaggle.com/kartikeya_47_jain"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <sub>Wind in peak summer.</sub>
 </div>
