@@ -6,14 +6,15 @@
 
 ---
 
-```
-$ whoami
-→ Kartikeya Jain — Cloud & DevOps Engineer
-→ Jaipur, India  (from Dehradun)
-→ AWS + Azure Certified · Dean's List × 5 · 9.45 CGPA
-→ I build infrastructure that doesn't break —
-  and show up for people the same way.
-```
+<div align="center">
+
+**Kartikeya Jain** &nbsp;·&nbsp; Cloud & DevOps Engineer &nbsp;·&nbsp; Jaipur, India *(from Dehradun)*
+
+AWS + Azure Certified &nbsp;·&nbsp; Dean's List × 5 &nbsp;·&nbsp; 9.45 CGPA
+
+*I build infrastructure that doesn't break — and show up for people the same way.*
+
+</div>
 
 ---
 
@@ -44,15 +45,8 @@ At **Celebal Technologies** I architect cloud infrastructure for data platforms 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Web**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -60,9 +54,6 @@ At **Celebal Technologies** I architect cloud infrastructure for data platforms 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Terraform Infra Automation**](https://kartikeyajain.com/work/terraform-infra-automation) | IaC for Databricks on AWS — VPCs, IAM, S3, secrets, end-to-end | Terraform · AWS · GitLab CI |
-| [**Datadog Observability**](https://kartikeyajain.com/work/datadog-observability) | Full APM, RUM, Synthetic monitoring setup for production | Datadog · AWS |
-| [**GitLab Terraform Registry**](https://kartikeyajain.com/work/gitlab-terraform-registry) | Versioned reusable module registry across environments | Terraform · GitLab |
 | [**Women's Safety Analysis**](https://kartikeyajain.com/work/women-safety-india) | Data analysis across Indian states 2001–2014 | Python · Pandas · Tableau |
 | [**Terrorism Pattern Analysis**](https://kartikeyajain.com/work/terrorism-analysis) | Global terrorism dataset — patterns, hotspots, trends | Python · Pandas · Tableau |
 | [**Titanic Survival Analysis**](https://kartikeyajain.com/work/titanic-analysis) | Survival factor breakdown across passenger classes | Python · Pandas |
