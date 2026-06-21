@@ -82,15 +82,6 @@ Technical stories, infrastructure lessons, and occasionally - life.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikeya47jain&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=f59e0b&icon_color=f59e0b&text_color=94a3b8&bg_color=0a0f1e" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeya47jain&theme=dark&hide_border=true&background=0a0f1e&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=94a3b8&dates=94a3b8" width="48%" />
-</div>
-
----
-
 ## Connect
 
 <a href="https://kartikeyajain.com"><img src="https://img.shields.io/badge/Portfolio-0a0f1e?style=flat-square&logo=vercel&logoColor=f59e0b" /></a>
